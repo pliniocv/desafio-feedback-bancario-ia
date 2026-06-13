@@ -1,0 +1,201 @@
+Data do feedback,Canal de origem,Texto do comentário,Produto ou serviço citado,Nota de satisfação (1 a 5),Tipo de atendimento,Região,Status da solicitação
+2023-10-31,Agência,Recebi uma oferta de empréstimo que não me interessa.,Empréstimos,3,Elogio,Sul,Resolvido
+2023-01-14,Aplicativo,O site do banco está fora do ar com frequência.,Internet Banking,2,Elogio,Sul,Pendente
+2023-03-13,Chatbot,O simulador de empréstimos é fácil de usar.,Empréstimos,1,Elogio,Centro-Oeste,Pendente
+2023-07-15,Internet Banking,"PIX funciona perfeitamente, muito rápido e prático.",PIX,5,Informações,Sudeste,Resolvido
+2023-11-30,Chatbot,Atendimento sobre empréstimo foi muito claro e objetivo.,Empréstimos,5,Elogio,Nordeste,Cancelado
+2023-07-18,Chatbot,"Não consigo falar com um atendente, só robô.",Atendimento humano,4,Informações,Sudeste,Cancelado
+2023-06-05,Agência,"Cai em um golpe de PIX, o banco pode ajudar?",PIX,5,Elogio,Norte,Em Andamento
+2023-07-06,Internet Banking,O chatbot é muito inteligente e me ajudou muito.,Chatbots,5,Reclamação,Centro-Oeste,Cancelado
+2023-11-04,Telefone,"Não consigo falar com um atendente, só robô.",Atendimento humano,1,Financeiro,Sudeste,Em Andamento
+2023-03-15,Chatbot,Consegui pagar minhas contas rapidamente pelo Internet Banking.,Internet Banking,1,Reclamação,Centro-Oeste,Em Andamento
+2023-01-01,Aplicativo,"O atendimento presencial é o melhor, resolvem tudo na hora.",Atendimento humano,2,Suporte Técnico,Sul,Cancelado
+2023-01-24,Chatbot,Minha fatura do cartão de crédito veio com cobranças indevidas.,Cartão de crédito,5,Informações,Nordeste,Pendente
+2023-04-12,Internet Banking,O banco me ajudou a abrir a conta que eu precisava.,Abertura de contas,1,Informações,Norte,Cancelado
+2023-06-30,Internet Banking,Tive problemas para enviar os documentos na abertura de conta.,Abertura de contas,2,Elogio,Centro-Oeste,Pendente
+2023-02-19,Chatbot,O chatbot me deu informações erradas.,Chatbots,5,Elogio,Sudeste,Em Andamento
+2023-09-07,Telefone,Recebi uma oferta de empréstimo que não me interessa.,Empréstimos,4,Elogio,Sul,Pendente
+2023-06-28,Agência,"O chatbot não entende minhas perguntas, é inútil.",Chatbots,3,Informações,Sudeste,Pendente
+2023-12-16,Agência,Abertura de conta online foi muito rápida e fácil.,Abertura de contas,5,Informações,Sudeste,Em Andamento
+2023-04-07,Internet Banking,Fui clonado e o banco não me ajudou com o estorno.,Cartão de crédito,1,Financeiro,Nordeste,Em Andamento
+2023-05-15,Aplicativo,O Internet Banking é completo e atende todas as minhas necessidades.,Internet Banking,1,Informações,Norte,Em Andamento
+2023-03-07,Internet Banking,O tempo de espera no telefone é inaceitável.,Atendimento humano,2,Financeiro,Nordeste,Resolvido
+2023-03-15,Telefone,Consegui resolver tudo com o atendimento via chat.,Atendimento humano,3,Suporte Técnico,Sudeste,Resolvido
+2023-08-05,Aplicativo,Consegui contestar uma compra indevida rapidamente.,Processos de contestação,1,Elogio,Sudeste,Pendente
+2023-09-20,Agência,Consegui pagar minhas contas rapidamente pelo Internet Banking.,Internet Banking,3,Reclamação,Centro-Oeste,Em Andamento
+2023-04-30,Aplicativo,A interface do Internet Banking é antiga e pouco intuitiva.,Internet Banking,2,Elogio,Centro-Oeste,Pendente
+2023-03-28,Telefone,O processo de abertura de conta é muito intuitivo.,Abertura de contas,3,Financeiro,Centro-Oeste,Cancelado
+2023-03-09,Aplicativo,Falta um chat de suporte no Internet Banking.,Internet Banking,5,Reclamação,Norte,Pendente
+2023-02-09,Chatbot,Bloqueei meu cartão e o desbloqueio foi rápido.,Cartão de crédito,1,Suporte Técnico,Centro-Oeste,Resolvido
+2023-09-04,Agência,Gostei da agilidade do chatbot para resolver meu problema.,Chatbots,2,Reclamação,Centro-Oeste,Pendente
+2023-10-06,Aplicativo,O processo de abertura de conta é muito intuitivo.,Abertura de contas,2,Elogio,Sul,Em Andamento
+2023-09-28,Telefone,Falta clareza sobre os requisitos para abrir uma conta.,Abertura de contas,4,Elogio,Centro-Oeste,Cancelado
+2023-10-14,Internet Banking,Falta a opção de [funcionalidade] no aplicativo.,Aplicativo bancário,1,Elogio,Nordeste,Em Andamento
+2023-09-07,Internet Banking,"Adorei a nova interface do aplicativo, ficou muito mais fácil de usar.",Aplicativo bancário,1,Reclamação,Norte,Cancelado
+2023-11-17,Aplicativo,As dicas de segurança do banco são muito úteis.,Segurança e autenticação,5,Reclamação,Centro-Oeste,Pendente
+2023-06-16,Telefone,Gostei da agilidade do chatbot para resolver meu problema.,Chatbots,5,Elogio,Centro-Oeste,Resolvido
+2023-05-14,Internet Banking,"Adorei a nova interface do aplicativo, ficou muito mais fácil de usar.",Aplicativo bancário,4,Financeiro,Nordeste,Cancelado
+2023-10-14,Chatbot,Atendimento sobre o cartão foi demorado e ineficaz.,Cartão de crédito,1,Reclamação,Norte,Cancelado
+2023-01-16,Aplicativo,"Não consigo fazer PIX pelo aplicativo, dá erro 500.",Aplicativo bancário,4,Financeiro,Norte,Em Andamento
+2023-11-22,Chatbot,Falta clareza sobre os requisitos para abrir uma conta.,Abertura de contas,2,Reclamação,Centro-Oeste,Resolvido
+2023-09-16,Telefone,O tempo de espera no telefone é inaceitável.,Atendimento humano,2,Suporte Técnico,Sul,Pendente
+2023-03-02,Internet Banking,Falta um chat de suporte no Internet Banking.,Internet Banking,4,Informações,Sudeste,Pendente
+2023-10-27,Aplicativo,Bloqueei meu cartão e o desbloqueio foi rápido.,Cartão de crédito,2,Suporte Técnico,Nordeste,Em Andamento
+2023-12-25,Chatbot,A transação PIX foi estornada sem motivo.,PIX,2,Suporte Técnico,Nordeste,Resolvido
+2023-11-21,Internet Banking,O banco resolveu minha contestação em poucos dias.,Processos de contestação,1,Financeiro,Sul,Resolvido
+2023-03-26,Chatbot,"Adorei a nova interface do aplicativo, ficou muito mais fácil de usar.",Aplicativo bancário,4,Elogio,Norte,Resolvido
+2023-08-18,Agência,Tive problemas para cadastrar a chave PIX.,PIX,4,Informações,Sul,Resolvido
+2023-07-07,Agência,Bloqueei meu cartão e o desbloqueio foi rápido.,Cartão de crédito,4,Elogio,Sul,Pendente
+2023-06-18,Telefone,PIX é a melhor coisa que inventaram para transferências.,PIX,3,Reclamação,Sul,Em Andamento
+2023-08-03,Telefone,O Internet Banking é completo e atende todas as minhas necessidades.,Internet Banking,5,Suporte Técnico,Norte,Resolvido
+2023-11-11,Chatbot,Atualização do app resolveu vários problemas de lentidão.,Aplicativo bancário,1,Elogio,Centro-Oeste,Cancelado
+2023-12-18,Aplicativo,O cartão virtual é uma mão na roda para compras online.,Cartão de crédito,2,Elogio,Sudeste,Em Andamento
+2023-05-25,Aplicativo,O chatbot é confuso e não me leva a lugar nenhum.,Chatbots,5,Financeiro,Nordeste,Resolvido
+2023-05-03,Aplicativo,"Recebi um SMS falso do banco, cuidado com golpes.",Segurança e autenticação,5,Informações,Centro-Oeste,Em Andamento
+2023-05-11,Telefone,Abertura de conta online foi muito rápida e fácil.,Abertura de contas,3,Elogio,Nordeste,Pendente
+2023-07-13,Chatbot,O chatbot é confuso e não me leva a lugar nenhum.,Chatbots,1,Reclamação,Sul,Resolvido
+2023-01-29,Aplicativo,Gostei da agilidade do chatbot para resolver meu problema.,Chatbots,1,Informações,Centro-Oeste,Cancelado
+2023-07-26,Internet Banking,Recebi um email de confirmação de abertura de conta que não fiz.,Abertura de contas,4,Elogio,Norte,Em Andamento
+2023-02-24,Chatbot,O chatbot é confuso e não me leva a lugar nenhum.,Chatbots,4,Informações,Nordeste,Em Andamento
+2023-01-26,Chatbot,"Não consigo falar com um atendente, só robô.",Atendimento humano,3,Reclamação,Nordeste,Pendente
+2023-09-30,Agência,Tive problemas para validar minha identidade no aplicativo.,Segurança e autenticação,5,Elogio,Norte,Cancelado
+2023-02-09,Chatbot,Meu processo de contestação está parado há semanas.,Processos de contestação,1,Elogio,Centro-Oeste,Resolvido
+2023-07-03,Internet Banking,O aplicativo para gerenciar o cartão é excelente.,Cartão de crédito,5,Elogio,Nordeste,Resolvido
+2023-03-14,Telefone,As opções do chatbot são limitadas.,Chatbots,3,Suporte Técnico,Nordeste,Em Andamento
+2023-06-02,Telefone,Consegui um empréstimo com ótimas condições.,Empréstimos,5,Financeiro,Sudeste,Pendente
+2023-09-13,Agência,Anuidade do cartão é muito alta.,Cartão de crédito,3,Elogio,Centro-Oeste,Resolvido
+2023-04-20,Internet Banking,O chatbot é confuso e não me leva a lugar nenhum.,Chatbots,5,Suporte Técnico,Nordeste,Resolvido
+2023-10-21,Aplicativo,Atualização do app resolveu vários problemas de lentidão.,Aplicativo bancário,1,Elogio,Nordeste,Em Andamento
+2023-12-31,Agência,O reconhecimento facial para login é muito prático.,Segurança e autenticação,2,Reclamação,Sudeste,Resolvido
+2023-10-29,Telefone,O aplicativo está muito lento e trava constantemente.,Aplicativo bancário,2,Elogio,Sul,Cancelado
+2023-07-30,Aplicativo,Falta clareza sobre os documentos necessários para contestação.,Processos de contestação,1,Informações,Centro-Oeste,Cancelado
+2023-08-29,Telefone,O reconhecimento facial para login é muito prático.,Segurança e autenticação,2,Informações,Nordeste,Cancelado
+2023-09-02,Internet Banking,"O atendente não resolveu meu problema, tive que ligar de novo.",Atendimento humano,1,Suporte Técnico,Centro-Oeste,Cancelado
+2023-01-27,Aplicativo,O banco me ajudou a conseguir o empréstimo que eu precisava.,Empréstimos,3,Informações,Sul,Em Andamento
+2023-03-20,Agência,O simulador de empréstimos é fácil de usar.,Empréstimos,2,Elogio,Norte,Pendente
+2023-10-27,Chatbot,O banco me ajudou a conseguir o empréstimo que eu precisava.,Empréstimos,3,Financeiro,Norte,Resolvido
+2023-12-25,Agência,Abertura de conta online foi muito rápida e fácil.,Abertura de contas,1,Suporte Técnico,Nordeste,Resolvido
+2023-08-05,Aplicativo,Tive problemas para cadastrar a chave PIX.,PIX,3,Elogio,Norte,Resolvido
+2023-05-21,Chatbot,O aplicativo está muito lento e trava constantemente.,Aplicativo bancário,4,Elogio,Sul,Cancelado
+2023-09-11,Telefone,O banco não me deu retorno sobre minha contestação.,Processos de contestação,4,Informações,Nordeste,Cancelado
+2023-07-11,Agência,"O aplicativo é intuitivo e rápido, parabéns!",Aplicativo bancário,3,Suporte Técnico,Norte,Em Andamento
+2023-06-14,Aplicativo,Fui muito bem atendido pela gerente da agência.,Atendimento humano,5,Financeiro,Sudeste,Pendente
+2023-12-17,Internet Banking,"Recebi um SMS falso do banco, cuidado com golpes.",Segurança e autenticação,1,Elogio,Norte,Cancelado
+2023-06-10,Aplicativo,Tive que ir na agência para resolver a contestação.,Processos de contestação,2,Reclamação,Norte,Pendente
+2023-08-04,Chatbot,Atendimento para abertura de conta foi excelente.,Abertura de contas,3,Informações,Nordeste,Resolvido
+2023-07-04,Aplicativo,O chatbot só me joga para o atendimento humano.,Chatbots,4,Elogio,Sul,Resolvido
+2023-02-16,Chatbot,"Minha conta foi invadida, preciso de ajuda urgente com a segurança!",Segurança e autenticação,1,Reclamação,Norte,Resolvido
+2023-04-10,Chatbot,Tive que ir na agência para resolver a contestação.,Processos de contestação,3,Reclamação,Sul,Em Andamento
+2023-12-24,Chatbot,Não consigo finalizar a abertura da minha conta.,Abertura de contas,2,Informações,Nordeste,Em Andamento
+2023-05-06,Internet Banking,O banco me ajudou a conseguir o empréstimo que eu precisava.,Empréstimos,3,Suporte Técnico,Sudeste,Resolvido
+2023-03-08,Aplicativo,Consegui contestar uma compra indevida rapidamente.,Processos de contestação,3,Elogio,Centro-Oeste,Em Andamento
+2023-06-23,Internet Banking,As dicas de segurança do banco são muito úteis.,Segurança e autenticação,5,Elogio,Sudeste,Cancelado
+2023-01-28,Internet Banking,Atendimento para abertura de conta foi excelente.,Abertura de contas,2,Suporte Técnico,Centro-Oeste,Em Andamento
+2023-06-28,Aplicativo,PIX é a melhor coisa que inventaram para transferências.,PIX,5,Reclamação,Sudeste,Em Andamento
+2023-01-12,Internet Banking,Não consigo aumentar o limite do meu cartão.,Cartão de crédito,5,Suporte Técnico,Centro-Oeste,Pendente
+2023-03-17,Chatbot,"Adorei a nova interface do aplicativo, ficou muito mais fácil de usar.",Aplicativo bancário,3,Suporte Técnico,Nordeste,Resolvido
+2023-11-22,Internet Banking,Atualização do app resolveu vários problemas de lentidão.,Aplicativo bancário,4,Informações,Centro-Oeste,Em Andamento
+2023-06-18,Aplicativo,Consegui resolver tudo com o atendimento via chat.,Atendimento humano,4,Elogio,Sudeste,Em Andamento
+2023-10-04,Telefone,O chatbot é muito inteligente e me ajudou muito.,Chatbots,1,Informações,Centro-Oeste,Cancelado
+2023-07-03,Internet Banking,Acho que a segurança do banco precisa ser melhorada.,Segurança e autenticação,3,Elogio,Nordeste,Resolvido
+2023-01-10,Chatbot,"Cai em um golpe de PIX, o banco pode ajudar?",PIX,2,Financeiro,Sudeste,Resolvido
+2023-10-14,Internet Banking,O banco me ajudou a abrir a conta que eu precisava.,Abertura de contas,2,Elogio,Sudeste,Pendente
+2023-01-30,Aplicativo,Falta clareza sobre os requisitos para abrir uma conta.,Abertura de contas,5,Informações,Norte,Resolvido
+2023-10-16,Agência,O processo de contratação de empréstimo é muito burocrático.,Empréstimos,5,Reclamação,Centro-Oeste,Pendente
+2023-06-22,Internet Banking,"O chatbot não entende minhas perguntas, é inútil.",Chatbots,4,Elogio,Sul,Pendente
+2023-01-23,Chatbot,Fui clonado e o banco não me ajudou com o estorno.,Cartão de crédito,5,Suporte Técnico,Centro-Oeste,Cancelado
+2023-03-26,Aplicativo,A opção de agendamento de PIX é muito útil.,PIX,5,Reclamação,Sul,Pendente
+2023-03-17,Chatbot,Adorei a nova funcionalidade de investimentos no Internet Banking.,Internet Banking,4,Suporte Técnico,Nordeste,Pendente
+2023-06-06,Chatbot,Fui clonado e o banco não me ajudou com o estorno.,Cartão de crédito,2,Elogio,Sudeste,Pendente
+2023-08-27,Agência,A interface do Internet Banking é antiga e pouco intuitiva.,Internet Banking,3,Elogio,Norte,Cancelado
+2023-12-19,Aplicativo,Atendimento sobre o cartão foi demorado e ineficaz.,Cartão de crédito,5,Reclamação,Centro-Oeste,Em Andamento
+2023-06-23,Internet Banking,PIX é a melhor coisa que inventaram para transferências.,PIX,3,Informações,Nordeste,Em Andamento
+2023-04-18,Internet Banking,O site é lento e trava muito.,Internet Banking,3,Elogio,Sul,Pendente
+2023-08-18,Internet Banking,O banco não me deu retorno sobre minha contestação.,Processos de contestação,1,Informações,Sudeste,Pendente
+2023-12-02,Internet Banking,O chatbot me deu informações erradas.,Chatbots,3,Reclamação,Sul,Em Andamento
+2023-06-27,Internet Banking,Atendimento sobre contestação foi muito atencioso.,Processos de contestação,5,Reclamação,Sudeste,Cancelado
+2023-06-10,Agência,PIX é a melhor coisa que inventaram para transferências.,PIX,1,Informações,Nordeste,Pendente
+2023-09-12,Agência,Não consigo acompanhar o status da minha contestação.,Processos de contestação,5,Reclamação,Nordeste,Em Andamento
+2023-01-19,Chatbot,Fui clonado e o banco não me ajudou com o estorno.,Cartão de crédito,5,Reclamação,Sul,Em Andamento
+2023-01-03,Aplicativo,O chatbot é confuso e não me leva a lugar nenhum.,Chatbots,4,Elogio,Sul,Pendente
+2023-03-18,Telefone,O reconhecimento facial para login é muito prático.,Segurança e autenticação,3,Informações,Centro-Oeste,Pendente
+2023-08-07,Aplicativo,O chatbot me deu informações erradas.,Chatbots,1,Elogio,Sul,Em Andamento
+2023-09-30,Agência,"PIX funciona perfeitamente, muito rápido e prático.",PIX,4,Reclamação,Sudeste,Cancelado
+2023-04-09,Chatbot,O aplicativo para gerenciar o cartão é excelente.,Cartão de crédito,5,Financeiro,Sudeste,Resolvido
+2023-09-21,Internet Banking,Atendimento para abertura de conta foi excelente.,Abertura de contas,3,Suporte Técnico,Norte,Resolvido
+2023-02-02,Aplicativo,"Meu PIX não caiu na conta, preciso de ajuda urgente!",PIX,2,Elogio,Sudeste,Cancelado
+2023-12-08,Aplicativo,Tive que ir na agência para resolver a contestação.,Processos de contestação,3,Financeiro,Sul,Em Andamento
+2023-09-09,Internet Banking,Atendimento humano sempre prestativo e eficiente.,Atendimento humano,5,Suporte Técnico,Nordeste,Pendente
+2023-03-23,Internet Banking,"O chatbot não entende minhas perguntas, é inútil.",Chatbots,5,Suporte Técnico,Sudeste,Cancelado
+2023-08-29,Telefone,O reconhecimento facial para login é muito prático.,Segurança e autenticação,1,Financeiro,Nordeste,Cancelado
+2023-07-26,Internet Banking,Tive problemas para enviar os documentos na abertura de conta.,Abertura de contas,2,Suporte Técnico,Sudeste,Cancelado
+2023-03-01,Internet Banking,Meu processo de contestação está parado há semanas.,Processos de contestação,4,Suporte Técnico,Sudeste,Resolvido
+2023-09-20,Chatbot,O Internet Banking é muito seguro e fácil de usar.,Internet Banking,4,Financeiro,Sul,Cancelado
+2023-05-10,Internet Banking,O processo de contratação de empréstimo é muito burocrático.,Empréstimos,3,Financeiro,Centro-Oeste,Pendente
+2023-11-08,Aplicativo,Consegui contestar uma compra indevida rapidamente.,Processos de contestação,3,Reclamação,Sudeste,Pendente
+2023-06-20,Telefone,O processo de abertura de conta é muito intuitivo.,Abertura de contas,3,Reclamação,Sul,Pendente
+2023-08-13,Chatbot,O processo de abertura de conta é muito intuitivo.,Abertura de contas,2,Informações,Centro-Oeste,Pendente
+2023-12-17,Internet Banking,O simulador de empréstimos é fácil de usar.,Empréstimos,4,Elogio,Centro-Oeste,Pendente
+2023-12-08,Internet Banking,Atendimento sobre o cartão foi demorado e ineficaz.,Cartão de crédito,4,Financeiro,Sul,Pendente
+2023-09-20,Agência,O Internet Banking é muito seguro e fácil de usar.,Internet Banking,1,Elogio,Centro-Oeste,Resolvido
+2023-07-22,Telefone,O reconhecimento facial para login é muito prático.,Segurança e autenticação,4,Financeiro,Sudeste,Cancelado
+2023-03-30,Internet Banking,O app consumiu muitos dados do meu celular.,Aplicativo bancário,5,Financeiro,Nordeste,Em Andamento
+2023-07-31,Aplicativo,"Não consigo fazer PIX pelo aplicativo, dá erro 500.",Aplicativo bancário,4,Reclamação,Nordeste,Resolvido
+2023-11-28,Internet Banking,O chatbot me deu informações erradas.,Chatbots,5,Reclamação,Sul,Resolvido
+2023-08-24,Chatbot,Acho que a segurança do banco precisa ser melhorada.,Segurança e autenticação,3,Reclamação,Sudeste,Em Andamento
+2023-08-31,Agência,As opções do chatbot são limitadas.,Chatbots,2,Financeiro,Centro-Oeste,Cancelado
+2023-08-15,Agência,As taxas de juros do empréstimo são abusivas.,Empréstimos,4,Reclamação,Sul,Pendente
+2023-01-30,Internet Banking,Adorei a nova funcionalidade de investimentos no Internet Banking.,Internet Banking,2,Suporte Técnico,Sudeste,Pendente
+2023-07-17,Chatbot,A transação PIX foi estornada sem motivo.,PIX,3,Elogio,Sul,Em Andamento
+2023-11-23,Internet Banking,Não consigo aumentar o limite do meu cartão.,Cartão de crédito,3,Reclamação,Centro-Oeste,Em Andamento
+2023-04-29,Telefone,Consegui pagar minhas contas rapidamente pelo Internet Banking.,Internet Banking,5,Financeiro,Sul,Em Andamento
+2023-11-05,Internet Banking,Gostei da agilidade do chatbot para resolver meu problema.,Chatbots,3,Elogio,Nordeste,Cancelado
+2023-08-08,Telefone,Fui clonado e o banco não me ajudou com o estorno.,Cartão de crédito,1,Elogio,Norte,Cancelado
+2023-02-17,Internet Banking,Recebi um cartão que não solicitei.,Cartão de crédito,2,Reclamação,Norte,Resolvido
+2023-08-10,Agência,Atendimento sobre empréstimo foi muito claro e objetivo.,Empréstimos,5,Informações,Sul,Em Andamento
+2023-04-17,Aplicativo,Recebi um cartão que não solicitei.,Cartão de crédito,3,Financeiro,Sul,Cancelado
+2023-11-13,Agência,Recebi um email de confirmação de abertura de conta que não fiz.,Abertura de contas,1,Informações,Nordeste,Em Andamento
+2023-08-13,Internet Banking,As opções do chatbot são limitadas.,Chatbots,2,Informações,Norte,Pendente
+2023-03-04,Internet Banking,O chatbot me deu informações erradas.,Chatbots,5,Informações,Sudeste,Pendente
+2023-01-22,Internet Banking,As taxas de juros do empréstimo são abusivas.,Empréstimos,2,Informações,Sudeste,Em Andamento
+2023-01-19,Aplicativo,Recebi um cartão que não solicitei.,Cartão de crédito,5,Reclamação,Centro-Oeste,Pendente
+2023-09-10,Internet Banking,"Preciso renegociar meu empréstimo, as parcelas estão pesadas.",Empréstimos,2,Informações,Centro-Oeste,Cancelado
+2023-01-11,Internet Banking,Atendimento humano sempre prestativo e eficiente.,Atendimento humano,1,Financeiro,Nordeste,Resolvido
+2023-07-29,Chatbot,O chatbot só me joga para o atendimento humano.,Chatbots,1,Financeiro,Sul,Pendente
+2023-11-02,Chatbot,"Preciso renegociar meu empréstimo, as parcelas estão pesadas.",Empréstimos,1,Elogio,Sudeste,Resolvido
+2023-08-26,Chatbot,Atualização do app resolveu vários problemas de lentidão.,Aplicativo bancário,1,Reclamação,Nordeste,Cancelado
+2023-03-22,Telefone,Aprovação do empréstimo demorou demais.,Empréstimos,2,Financeiro,Norte,Pendente
+2023-05-25,Chatbot,Bloqueei meu cartão e o desbloqueio foi rápido.,Cartão de crédito,5,Suporte Técnico,Nordeste,Em Andamento
+2023-03-06,Aplicativo,Consegui resolver meu problema rapidamente com o chatbot.,Chatbots,2,Suporte Técnico,Sudeste,Pendente
+2023-04-04,Agência,Atendimento sobre o cartão foi demorado e ineficaz.,Cartão de crédito,4,Suporte Técnico,Norte,Em Andamento
+2023-03-11,Aplicativo,Não consigo acompanhar o status da minha contestação.,Processos de contestação,4,Suporte Técnico,Centro-Oeste,Pendente
+2023-03-30,Chatbot,Falta clareza sobre os documentos necessários para contestação.,Processos de contestação,5,Informações,Centro-Oeste,Pendente
+2023-06-18,Internet Banking,Poderia ter mais opções de autoatendimento no chatbot.,Chatbots,4,Reclamação,Norte,Cancelado
+2023-10-27,Internet Banking,"Não consigo acessar minha conta pelo app, sempre dá erro.",Aplicativo bancário,1,Reclamação,Sudeste,Pendente
+2023-01-01,Chatbot,Falta um chat de suporte no Internet Banking.,Internet Banking,4,Suporte Técnico,Sul,Pendente
+2023-05-03,Internet Banking,O chatbot é confuso e não me leva a lugar nenhum.,Chatbots,4,Elogio,Sudeste,Em Andamento
+2023-04-18,Telefone,O Internet Banking é muito seguro e fácil de usar.,Internet Banking,3,Financeiro,Sul,Cancelado
+2023-09-14,Aplicativo,"O atendimento presencial é o melhor, resolvem tudo na hora.",Atendimento humano,3,Informações,Norte,Pendente
+2023-05-27,Telefone,Fui clonado e o banco não me ajudou com o estorno.,Cartão de crédito,1,Informações,Nordeste,Resolvido
+2023-05-30,Chatbot,O chatbot só me joga para o atendimento humano.,Chatbots,1,Informações,Norte,Pendente
+2023-02-22,Aplicativo,A opção de agendamento de PIX é muito útil.,PIX,1,Financeiro,Sul,Em Andamento
+2023-06-10,Agência,"Cai em um golpe de PIX, o banco pode ajudar?",PIX,1,Informações,Sudeste,Pendente
+2023-10-09,Chatbot,Fui clonado e o banco não me ajudou com o estorno.,Cartão de crédito,4,Elogio,Sudeste,Resolvido
+2023-03-19,Telefone,Recebi um email de confirmação de abertura de conta que não fiz.,Abertura de contas,2,Reclamação,Nordeste,Pendente
+2023-06-24,Chatbot,"Recebi um SMS falso do banco, cuidado com golpes.",Segurança e autenticação,4,Informações,Norte,Em Andamento
+2023-11-16,Chatbot,Fui clonado e o banco não me ajudou com o estorno.,Cartão de crédito,2,Reclamação,Centro-Oeste,Em Andamento
+2023-02-23,Chatbot,Demora para o PIX ser processado em alguns momentos.,PIX,2,Suporte Técnico,Norte,Cancelado
+2023-02-21,Internet Banking,O aplicativo está muito lento e trava constantemente.,Aplicativo bancário,1,Suporte Técnico,Nordeste,Em Andamento
+2023-01-27,Telefone,"Fui vítima de fraude, o banco pode me ajudar?",Segurança e autenticação,1,Reclamação,Centro-Oeste,Cancelado
+2023-03-20,Chatbot,"Cai em um golpe de PIX, o banco pode ajudar?",PIX,2,Suporte Técnico,Sudeste,Resolvido
+2023-06-30,Agência,O processo de abertura de conta é muito intuitivo.,Abertura de contas,3,Reclamação,Sul,Cancelado
+2023-02-24,Internet Banking,O processo de contestação é muito burocrático e demorado.,Processos de contestação,4,Elogio,Norte,Cancelado
+2023-11-15,Aplicativo,Consegui pagar minhas contas rapidamente pelo Internet Banking.,Internet Banking,3,Financeiro,Norte,Resolvido
+2023-12-10,Telefone,Consegui um empréstimo com ótimas condições.,Empréstimos,1,Elogio,Nordeste,Resolvido
+2023-06-13,Internet Banking,Recebi uma oferta de empréstimo que não me interessa.,Empréstimos,5,Informações,Nordeste,Cancelado
+2023-04-08,Internet Banking,O banco me ajudou a conseguir o empréstimo que eu precisava.,Empréstimos,2,Suporte Técnico,Sudeste,Cancelado
+2023-05-05,Telefone,"Cai em um golpe de PIX, o banco pode ajudar?",PIX,1,Elogio,Sudeste,Pendente
+2023-11-10,Internet Banking,"Falta treinamento para os atendentes, são despreparados.",Atendimento humano,3,Suporte Técnico,Norte,Em Andamento
+2023-04-07,Agência,Poderia ter um dark mode no aplicativo.,Aplicativo bancário,1,Elogio,Centro-Oeste,Pendente
+2023-05-14,Aplicativo,Poderia ter mais opções de autoatendimento no chatbot.,Chatbots,2,Suporte Técnico,Nordeste,Em Andamento
+2023-05-17,Chatbot,O processo de abertura de conta é muito intuitivo.,Abertura de contas,3,Reclamação,Nordeste,Cancelado
